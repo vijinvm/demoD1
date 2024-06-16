@@ -32,4 +32,5 @@ public class Checkin {
 		this.guest = guest;
 	}
 
+	
 }
