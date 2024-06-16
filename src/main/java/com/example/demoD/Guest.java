@@ -11,7 +11,7 @@ public class Guest {
 private int id;
 private String name;
 @ManyToOne
-@JoinColumn(name="guest_id")
+@JoinColumn(name="checkin_id")
 private Checkin checkin;
 public int getId() {
 	return id;
