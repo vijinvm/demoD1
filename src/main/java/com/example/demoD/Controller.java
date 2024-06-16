@@ -72,4 +72,5 @@ public Guest b5(@PathVariable int id,@RequestBody Guest  guest) {
 public void b6(@PathVariable int id) {
 	q.deleteById(id);
 }
+	
 }
