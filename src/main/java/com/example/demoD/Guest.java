@@ -31,5 +31,6 @@ public Checkin getCheckin() {
 public void setCheckin(Checkin checkin) {
 	this.checkin = checkin;
 }
+
 	
 }
